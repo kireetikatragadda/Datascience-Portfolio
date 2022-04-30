@@ -11,7 +11,7 @@ This notebook looks into using various Python-based machine learning and data sc
 Predicting the heart disease with machine learning
 
 
-code and resources used
+CODE AND RESOURCES USED:
 
 **python version 3.7
 
